@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>http://www.bailianbai.com/app/Unionsoft.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://wx.unionsoft.cn/website/concact/images/log_03.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://wx.unionsoft.cn/website/concact/images/log_03.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
